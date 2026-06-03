@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>SolarIQ  – a B2B SaaS platform for the solar industry, focused on backend APIs, energy calculations, and scalable system design.<br><br>👯 I’m looking to collaborate on<br>Java & Spring Boot backend projects, React-based applications, and real-world SaaS products.<br><br>🤝 I’m looking for help with<br>Advanced system design, API scalability, and production-ready backend architecture.<br><br>🌱 I’m currently learning<br>Java, Spring Boot, React, Data Structures & Algorithms (DSA), System Design, and API development.<br><br>💬 Ask me about<br>Java, Spring Boot, React, DSA, System Design, REST APIs, and building scalable backend systems.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into clean, structured code and scalable solutions.
+I’m currently learning<br>Java, Spring Boot, React, Data Structures & Algorithms (DSA), System Design, and API development.<br><br>💬 Ask me about<br>Java, Spring Boot, React, DSA, System Design, REST APIs, and building scalable backend systems.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into clean, structured code and scalable solutions.
 
 
 ## 🌐 Socials:
